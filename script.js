@@ -42,5 +42,5 @@ while (i < 0) {
 const arr = [1, 2, 3];
 
 for (const value of arr) {
-  console.log(arr[0]);
+  console.log(value)
 }
